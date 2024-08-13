@@ -2,9 +2,7 @@
 
 ### Title:End-to-End Object Detection with Transformers
 #### Group Member Names : 
-Sanjana Manish Modi
-
-Dayana Singh
+Srishti Seth
 
 # Implement paper code :
 *********************************************************************************************************************
